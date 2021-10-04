@@ -13,3 +13,8 @@ window.onload = function() {
 function getElement(){
   console.log('Test');
 }
+
+
+function getPrices(){
+  console.log('Price');
+}
