@@ -1,8 +1,6 @@
 /* eslint-disable */
 import "bootstrap";
-import "./style.css";
 
-import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 window.onload = function() {
@@ -12,9 +10,14 @@ window.onload = function() {
 
 function getElement(){
   console.log('Test');
+  console.log('Test');
+  console.log('Test');
+  console.log('Test');
+  console.log('Test');
+  console.log('Test');
 }
 
 
-function getPrices(){
-  console.log('Price');
+function getPricsdsddssdsdsdsdsdsdsdes(){
+  console.log('sdasdasdPrice');
 }
